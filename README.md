@@ -1,1 +1,1 @@
-A simple login page made with PHP, HTML and CSS
+Simple authentication system developed with PHP and MySQL, which allows users to register, log in and access a restricted area.
